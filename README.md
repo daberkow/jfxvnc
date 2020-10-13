@@ -5,6 +5,9 @@
 
 [![video](http://img.youtube.com/vi/hbsgvLNvPCc/0.jpg)](http://youtu.be/hbsgvLNvPCc)
 
+## Java 11 Branch
+Using `java --module-path ~/source/javafx-sdk-15/lib --add-modules="javafx.base,javafx.controls,javafx.fxml" -jar ./jfxvnc-app/target/jfxvnc-app-jar-with-dependencies.jar` I was able to get the app to load
+
 ## Modules
 - jfxvnc-net (netty based VNC / RFB protocol)
 - jfxvnc-ui (JavaFX VNC components)
