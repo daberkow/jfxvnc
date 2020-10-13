@@ -8,3 +8,9 @@
 /**/target/
 /**/dependency-reduced-pom.xml
 /target/
+# Intellij Idea
+*.idea/
+*.iml
+*.ipr
+*.iws
+out/
